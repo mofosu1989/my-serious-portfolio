@@ -1,0 +1,147 @@
+body{
+background-color: #efefef;
+
+
+}
+
+.Resume{
+width: 40%;
+float: right;
+
+}
+.Resume img{
+    height: 250px;
+    float: right;
+    width: 270px;
+    }
+
+.summary{
+    margin: 10px;
+    margin: 15px;
+    
+    
+}
+
+.title{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+.social-media img {
+width: 40px;
+margin-top: 10px;
+padding: 10px;
+margin-bottom: 10px;
+
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+
+}
+.social-media{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+
+.Skills img 
+{
+    height: 20px;
+    margin: 10px}
+
+.Skills2 img{
+    height: 30px;
+    margin: 10px;
+}
+
+.Skills3 img{
+    height: 30px;
+    margin: 10px;
+    
+}
+.Skills4 img {
+
+    height: 30px;
+    margin: 10px;
+}
+.Skills5 img{
+    height: 30px;
+    margin: 10px;
+}
+.Skills6 img{
+    height: 30px;
+    margin: 10px;
+}
+
+
+.Skills
+{
+    display: inline-block;
+    width: 28%;
+    padding: 1px 10px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18); 
+    background: #fff;
+
+}
+
+.Skills2
+{  display: inline-block;
+    width: 30%;
+    padding: 1px 10px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18); 
+    background: #fff;
+
+    
+
+
+}
+.Skills3{
+    display: inline-block;
+    width: 28%;
+    padding: 1px 10px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18); 
+    background: #fff;
+    
+
+
+
+}
+
+    .Skills4{  display: inline-block;
+        width: 28%;
+        padding: 1px 10px;
+        margin: 2%;
+        text-align: center;
+        box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18); 
+        background: #fff;
+    
+    
+    
+    }
+    .Skills5{  display: inline-block;
+        width: 28%;
+        padding: 1px 10px;
+        margin: 2%;
+        text-align: center;
+        box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18); 
+        background: #fff;
+
+    
+    } 
+    .Skills6{  display: inline-block;
+        width: 28%;
+        padding: 1px 10px;
+        margin: 2%;
+        text-align: center;
+        box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18); 
+        background: #fff;}
+
+    
